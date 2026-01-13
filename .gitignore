@@ -15,3 +15,7 @@ figures/
 *.mp4
 *.npy
 *.npz
+# Parquet data files
+*.parquet
+data/
+
