@@ -18,4 +18,5 @@ figures/
 # Parquet data files
 *.parquet
 data/
-
+.DS_Store
+Thumbs.db
