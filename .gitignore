@@ -1,0 +1,22 @@
+# Ignore large files
+models/
+results/
+figures/
+*.pt
+*.pth
+*.h5
+*.sav
+*.zip
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.npy
+*.npz
+# Parquet data files
+*.parquet
+data/
+.DS_Store
+Thumbs.db
